@@ -1,5 +1,3 @@
-# speech-master
-
 # 🎙️ VoxScribe Studio — Intelligent Voice to Text
 
 > A next-generation, browser-based voice dictation and speech intelligence studio built with React, Web Speech API, and a modern dark glassmorphic design system.
