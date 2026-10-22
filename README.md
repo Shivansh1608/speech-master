@@ -59,3 +59,6 @@
 - **Styling**: Vanilla CSS (Custom tokens, glassmorphism, responsive flex/grid layouts)
 - **Typography**: [Google Fonts](https://fonts.google.com/) (*Outfit* & *JetBrains Mono*)
 - **Storage**: Browser `localStorage`
+
+
+live on vercel:https://speech-master-murex.vercel.app/
